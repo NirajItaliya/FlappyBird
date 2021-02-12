@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8390252c295853f4e8c3f16167f49191
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myRigidBody: {instanceID: 0}
+  - anim: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - flapClick: {fileID: 8300000, guid: 40ec1059c7215424fb4ac754812e15da, type: 3}
+  - pointClip: {fileID: 8300000, guid: 085f7701d5423f64da8d464e084145fd, type: 3}
+  - diedClip: {fileID: 8300000, guid: 9c4858f3789f468479e616e3ae458c21, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
